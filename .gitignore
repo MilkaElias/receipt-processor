@@ -23,8 +23,9 @@
 hs_err_pid*
 replay_pid*
 
-# IntelliJ Idea generated files
+### IntelliJ IDEA ###
+.idea
+*.iws
 *.iml
-
-*.md
+*.ipr
 
