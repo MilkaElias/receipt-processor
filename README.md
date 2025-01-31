@@ -26,6 +26,9 @@ Make sure you have the following installed on your system:
 git clone https://github.com/MilkaElias/receipt-processor.git
 ```
 ```
+cd receipt-processor
+```
+```
 cd receiptProcessor
 ```
 
@@ -46,6 +49,9 @@ You have to have Docker installed if you wish to run it with docker.
 ### Clone this repository
  ```  
 git clone https://github.com/MilkaElias/receipt-processor.git
+```
+```
+cd receipt-processor
 ```
 ```
 cd receiptProcessor
