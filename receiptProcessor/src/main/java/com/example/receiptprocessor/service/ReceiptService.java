@@ -13,7 +13,7 @@ public class ReceiptService {
     private final Map<String, Integer> points=new HashMap<>();
 
     public String processReceipt(Receipt receipt) {
-        int point= ProcessReceipt.processReceipt(receipt);
+        int point= ProcessReceipt.calculatePoints(receipt);
         String id= UUID.randomUUID().toString();
         points.put(id,point);
         return id;
