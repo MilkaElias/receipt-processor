@@ -10,14 +10,16 @@ What This Does
 
 ## Getting Started
 
-### Prerequisites
+You can run the application in two ways (locally or using Docker).
 
-Make sure you have the following installed on your system:  
-✅ Java 17+ (JDK)  
-✅ Maven (for building the project)  
-✅ Docker (if you want to run it in a container)  
 
 ## Run Locally (Maven)
+
+### Prerequisites
+ 
+Make sure you have the following installed on your system:  
+✅ Java 17+ (JDK)  
+✅ Maven (for building the project) 
 
 ### Clone this repository
  ```  
@@ -39,7 +41,15 @@ The app will start on http://localhost:8080/receipts
 
 ## Run with Docker
 
-If you prefer running it in Docker:
+You have to have Docker installed if you wish to run it with docker. 
+
+### Clone this repository
+ ```  
+git clone https://github.com/MilkaElias/receipt-processor.git
+```
+```
+cd receiptProcessor
+```
 
 ### Build the Docker image
 ```   
