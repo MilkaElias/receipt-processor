@@ -30,9 +30,6 @@ cd receipt-processor/receiptProcessor
 ```
 
 ###  Build & Run
-```   
-mvn clean package
-```
 ```
 mvn spring-boot:run
 ```
