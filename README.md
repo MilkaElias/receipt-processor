@@ -26,10 +26,7 @@ Make sure you have the following installed on your system:
 git clone https://github.com/MilkaElias/receipt-processor.git
 ```
 ```
-cd receipt-processor
-```
-```
-cd receiptProcessor
+cd receipt-processor/receiptProcessor
 ```
 
 ###  Build & Run
@@ -51,10 +48,7 @@ You have to have Docker installed if you wish to run it with docker.
 git clone https://github.com/MilkaElias/receipt-processor.git
 ```
 ```
-cd receipt-processor
-```
-```
-cd receiptProcessor
+cd receipt-processor/receiptProcessor
 ```
 
 ### Build the Docker image
